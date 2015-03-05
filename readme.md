@@ -2,4 +2,4 @@
 
 由于每天能收集到 很多很厉害的项目 时间长了容易忘记 特在此记录
 
-##power by shuyi.wu
+##powered by shuyi.wu
